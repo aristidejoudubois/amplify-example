@@ -42,7 +42,6 @@ const Home: NextPage = () => {
                 1- AWS cloud Practitioner Certicate
               </div>
             </Link>
-          </div>
            <Link
               className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
               href="https://create.t3.gg/en/introduction"
