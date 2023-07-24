@@ -29,7 +29,7 @@ const Home: NextPage = () => {
               <div className="text-lg">
                 Devops Engineer with a Masters degree in Computer science.
                 Background in Linux Administrator, Expert in Github actions, Jenkins,
-                Kubernetes, Terraform, AWS cloud practitioner certificate
+                Kubernetes, Terraform
               </div>
             </Link>
             <Link
@@ -40,6 +40,9 @@ const Home: NextPage = () => {
               <h3 className="text-2xl font-bold">Certification →</h3>
               <div className="text-lg">
                 1- AWS cloud Practitioner Certicate
+                2- Kubernetes (In Progress)
+                3- Terraform (In Progress)
+                4- AWS Certified devops Engineer (In Progress)
               </div>
             </Link>
            <Link
